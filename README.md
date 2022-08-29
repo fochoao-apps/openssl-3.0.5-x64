@@ -1,10 +1,7 @@
 Welcome to the OpenSSL Project
 ==============================
 
-[![openssl logo]][www.openssl.org]
-
-[![github actions ci badge]][github actions ci]
-[![appveyor badge]][appveyor jobs]
+[www.openssl.org]
 
 OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit
 for the Transport Layer Security (TLS) protocol formerly known as the
